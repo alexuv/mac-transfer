@@ -1,5 +1,5 @@
 # Programmes
-## Other
+## Applications
 - [ ] FunctionFlip
 ## Programming
 - [ ] Install PHP & SQL (MYSQL)
@@ -34,3 +34,5 @@
 - [ ] VPN Hola
 - [ ] Wappalyzer
 - [ ] Wikiwand
+## iTunes Plugin
+- [ ] Convert Cyrillic
