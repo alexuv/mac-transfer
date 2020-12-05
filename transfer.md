@@ -1,6 +1,6 @@
 # Programmes
 ## Applications
-- [ ] FunctionFlip
+- [ ] FunctionFlipn tests
 ## Programming
 - [ ] Install PHP & SQL (MYSQL)
 - [ ] set up localhost on development folder
