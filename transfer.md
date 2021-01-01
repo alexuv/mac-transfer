@@ -10,7 +10,7 @@
 - [ ] NodeJS
 - [ ] sass
 - [ ] create-react-app
-- [ ] firebase-tools test
+- [ ] firebase-tools
 - [ ] surge
 ## VSCode Plugins
 - [ ] Autorename Tag
